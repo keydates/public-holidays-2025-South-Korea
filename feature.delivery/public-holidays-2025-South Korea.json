@@ -1,0 +1,104 @@
+{
+  "product": "South Korea Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Lunar New Year",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-02-03T12:00:00",
+      "endDate": "2025-02-03T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the Lunar New Year"
+    },
+    {
+      "title": "Independence Movement Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-03-01T12:00:00",
+      "endDate": "2025-03-01T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "red",
+      "description": "Commemoration of the Korean independence movement"
+    },
+    {
+      "title": "Buddha's Birthday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-03T12:00:00",
+      "endDate": "2025-05-03T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "purple",
+      "description": "Celebration of the birthday of Buddha"
+    },
+    {
+      "title": "Memorial Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-06T12:00:00",
+      "endDate": "2025-06-06T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "green",
+      "description": "Commemoration of fallen soldiers and patriots"
+    },
+    {
+      "title": "Liberation Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-08-15T12:00:00",
+      "endDate": "2025-08-15T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of Korea's liberation from Japanese colonial rule"
+    },
+    {
+      "title": "National Foundation Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-03T12:00:00",
+      "endDate": "2025-10-03T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the legendary formation of the first Korean state"
+    },
+    {
+      "title": "Hangul Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-10-09T12:00:00",
+      "endDate": "2025-10-09T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Celebration of the invention and proclamation of Hangul"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Official Calendar",
+      "product": "South Korea Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    }
+  ]
+}
